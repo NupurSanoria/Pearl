@@ -23,8 +23,8 @@ body{
     align-items: center;
     justify-content: center;
     margin: 10px;
-    height: 500px;
-    width: 500px;
+    height: 50px;
+    width: 50px;
 }
 
 .result img {
