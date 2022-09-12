@@ -29,8 +29,8 @@ body{
 
 .result img {
     object-fit: cover;
-    height: 500px;
-    width: 500px;
+    height: 50px;
+    width: 50px;
 }
 
 .buttons {
